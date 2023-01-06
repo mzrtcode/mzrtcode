@@ -1,10 +1,69 @@
-- 👋 Hi, I’m ✨  @silenzrck  ✨
-- 👀 I’m interested in web development, and UX/UI Design.
-- 🌱 I’m currently learning Git and JavaScript.
-- 💞️ I’m looking to collaborate on any web development projects, I'm a curious human being and I love learning new things.
-- 📫 How to reach me: stvnm33@gmail.com
+<h1> Hello World! :alien: <br> I’m ✨  @silenzrck  ✨ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<img align='right' src="https://media4.giphy.com/media/C63JVLdaTrQt4itsXr/giphy.gif" width="230">
+<ul>
+  <li>👀 I’m  insterested in Web Development Front-End and Back-End</li>
+  <li>🌱 I’m currently focusing on increasing my knowledge on JavaScript, SQL, React, MongoDB</li>
+  <li>📈 Working in ...</li>
+  <li>📫 How to reach me: stvnm33@gmail.com Twitter: @notyet</li>
+</ul>
 
-<!---
-silenzrck/silenzrck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div width="100%" style=text-align: {center};>
+  <a href="https://twitter.com/notyet"><img src="https://img.shields.io/twitter/follow/notyet?style=social"></a>
+  <a href="https://github.com/silenzrck"><img src="https://img.shields.io/github/followers/silenzrck?label=follow&style=social"></a>
+</div>
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+
+```javascript
+const Silenz = {
+  pronouns: 'he' || 'his' && 'fae',
+  wealthScope: 'Full-StackDeveloper',
+  }
+  
+
+  code: {
+           current: ['JavaScript','HTML', 'CSS', 'Ruby'],
+           past: ['Python', 'Object Pascal', 'Visual Basic'],
+         },
+  tools: {
+           tools: ['Git', 'WebPack'],
+           frameworks: ['React', 'Semantic UI', 'i18next', 'Bootstrap', 'SASS', 'Tailwind'],
+           testing: ['Jest', 'RSpec'],
+          },
+          
+  comingSoon: ['Go', 'Python'],
+}
+```
+
+## Stats 📈
+
+[![Silenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=silenzrck&show_icons=true&theme=synthwave)](https://github.com/silenzrck/github-readme-stats)
+
+![](https://github.com/silenzrck/github_stats/blob/master/generated/languages.svg)
+![](https://github.com/silenzrck/github_stats/blob/master/generated/overview.svg)
+## 🛠️ My favorite languages and tools
+
+<p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
+    <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+</p>
+
+<img src="https://media4.giphy.com/media/Fx6eBFqaxf2sne5i3T/giphy.gif" width="150"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to get to know you better!</b> :)</em>
+
+
+---
