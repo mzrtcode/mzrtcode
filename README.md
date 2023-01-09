@@ -3,9 +3,8 @@
    “role” : “FullStack Dev | MERN Stack”,
    “data” : 
      { 
-      "Linkedin" : "https://www.linkedin.com/in/vmorenoflores/", 
-      "Resume"   : "https://veromoreno.github.io/",
-      "IG"       : "https://www.instagram.com/veritechie"
+      "Linkedin" : "https://www.linkedin.com/in/stvmedina/", 
+      "Resume"   : "https://silenzrck.github.io/"
      }
  }
 ```
