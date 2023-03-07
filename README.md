@@ -4,7 +4,7 @@
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/stvmedina/", 
-      "Resume"   : "https://silenzrck.github.io/"
+      "Resume"   : "https://mzrtcode.github.io/"
      }
  }
 ```
@@ -53,14 +53,14 @@
 
 - GraphQL / Heroku / Docker 
 - Advance React JS
-- MEAN Stack Course (With official certificate in MongoDB)
+- MEAN Stack Course
 
 ### Github Stats:
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenzrck&theme=chartreuse-dark&card_width=450em)](https://github.com/silenzrck/silenzrck/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=silenzrck&theme=chartreuse-dark&show_icons=true" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzrtcode&theme=chartreuse-dark&card_width=450em)](https://github.com/mzrtcode/mzrtcode/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=mzrtcode&theme=chartreuse-dark&show_icons=true" /></td>
   </tr>
 </table>
 
