@@ -1,3 +1,6 @@
+
+![Hi, I'm Stiven Medina a](https://github.com/mzrtcode/mzrtcode/assets/71569136/a753b511-3ff0-4e0f-8138-7dfd02ad34b7)
+
 ```shell
  { “name” : “Stiven Medina”,
    “role” : “FullStack Dev | MERN Stack”,
