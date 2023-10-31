@@ -3,7 +3,7 @@
 
 ```shell
  { “name” : “Stiven Medina”,
-   “role” : “FullStack Dev | MERN Stack”,
+   “role” : “Backend Developer”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/stvmedina/", 
