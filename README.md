@@ -55,12 +55,6 @@
  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 
-### 🌱 I'm currently learning... / Last Projects
-
-- GraphQL / Heroku / Docker 
-- Advance React JS
-- MEAN Stack Course
-
 ### Github Stats:
 
 <table>
